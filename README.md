@@ -34,7 +34,12 @@
 
 ## 📈 GitHub Stats  
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravi-Yadav&show_icons=true&theme=radical)
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravi-Dahiya-00&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📊 GitHub Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Dahiya-00&layout=compact&hide=html,css&theme=radical)
+
 
 ---
 
