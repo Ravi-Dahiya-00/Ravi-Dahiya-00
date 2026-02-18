@@ -136,8 +136,6 @@ $ cat about.txt
 
 ![Snake animation](https://github.com/Ravi-Dahiya-00/Ravi-Dahiya-00/blob/output/github-contribution-grid-snake-dark.svg)
 
-> ⚙️ To enable: Add a GitHub Actions workflow that generates the snake SVG and commits it to your repo's `output` branch.
-> Workflow file: [platane/snk](https://github.com/platane/snk)
 
 </div>
 
