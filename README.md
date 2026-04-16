@@ -136,7 +136,6 @@ System Status: ONLINE ●  |  Core Stack: Full-Stack + Automation + ML  |  Mode:
 ## `> ./achievements --list`
 
 ```bash
-[✓] 200,000+  audience reached via Data Science content
 [✓] 5,000+    students in managed WhatsApp community
 [✓] 250+      GitHub commits pushed
 [✓] 100+      LeetCode problems solved
