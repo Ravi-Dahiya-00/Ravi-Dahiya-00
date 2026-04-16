@@ -24,7 +24,7 @@ $ whoami
 > ravi_yadav — CSE Student | Full-Stack Dev | Automation Enthusiast
 
 $ cat about.txt
-> Currently:  Technical content for 200k+  audience
+> Currently:  Building Something that doesnot exists
 > Former:     Frontend Developer Intern @ Eventviewz
 > Managing:   5,000+ student WhatsApp community
 > Mission:    Build. Automate. Scale.
