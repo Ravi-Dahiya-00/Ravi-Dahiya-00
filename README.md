@@ -140,7 +140,7 @@ System Status: ONLINE ●  |  Core Stack: Full-Stack + Automation + ML  |  Mode:
 [✓] 250+      GitHub commits pushed
 [✓] 100+      LeetCode problems solved
 [✓] 4         Python badges on HackerRank
-[✓] Ranked    16th out of 250 teams — Web-a-thon
+[✓] Ranked    2nd out of 250 teams — Hackathon
 ```
 
 ---
