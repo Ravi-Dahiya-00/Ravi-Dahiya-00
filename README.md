@@ -55,8 +55,7 @@ Found and responsibly reported **2 critical security vulnerabilities** on a live
 ---
 
 ## Experience
-
-**Software Engineer Intern** @ Big Data Specialist *(Jul 2026 – Present)*  
+ 
 **Software Engineering Intern** @ LearnDevs *(Feb 2026 – Apr 2026)*  
 **Frontend Developer Intern** @ Eventviewz *(Oct 2025 – Nov 2025)*  
 
