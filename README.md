@@ -62,6 +62,5 @@ Found and responsibly reported **2 critical security vulnerabilities** on a live
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-Dahiya-00&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Dahiya-00&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Dahiya-00&theme=light&hide_border=true" width="48%" />
 </p>
