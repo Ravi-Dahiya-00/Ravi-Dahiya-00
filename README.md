@@ -7,6 +7,9 @@ B.Tech CSE @ Lovely Professional University · 2028
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ravi-yadav-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravidahiya9350@gmail.com)
 
+
+<img src="https://komarev.com/ghpvc/?username=Ravi-Dahiya-00&style=flat-square&color=000000&label=Profile+Views" style="margin-left:31px"/>
+
 ---
 
 ## About
